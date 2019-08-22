@@ -22,8 +22,8 @@ and last name the system shall display all the courses that student is registere
 6. Sort courses based on number of students registered
 7. Exit
 
-**Student Single view:** \
-*Course Management: * 
+**Student Single view:**
+*Course Management:* 
 1. View all courses
 2. View all courses that are not full
 3. Register in a course (in this case the student must enter the course name, section, and student full name, the name will be added to the appropriate course)
