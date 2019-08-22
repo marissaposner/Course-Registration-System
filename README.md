@@ -31,7 +31,7 @@ and last name the system shall display all the courses that student is registere
 5. View all courses that the current student is registered in
 6. Exit
 
-*Notes:*\
+*Notes:*
 - Both Admin and Student inherit from a class User
 - At the beginning of launching the program, the program reads all the courses information from the comma delimited file MyUniversityCourses.csv into an ArrayList of Course Objects
 - The username and password for the admin is: Admin and Admin001
