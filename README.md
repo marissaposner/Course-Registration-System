@@ -2,7 +2,7 @@
 
 Course Registration System with multi-level user access (Admin & Student)
 
-**Admin multiview:** 
+**Admin multiview:** \
 *First view -* Course Management: 
 1. Create a new course
 2. Delete a course
