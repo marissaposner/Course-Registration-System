@@ -22,7 +22,7 @@ and last name the system shall display all the courses that student is registere
 6. Sort courses based on number of students registered
 7. Exit
 
-**Student Single view:**
+**Student Single view:** /
 *Course Management:* 
 1. View all courses
 2. View all courses that are not full
