@@ -36,4 +36,4 @@ and last name the system shall display all the courses that student is registere
 - At the beginning of launching the program, the program reads all the courses information from the comma delimited file MyUniversityCourses.csv into an ArrayList of Course Objects
 - The username and password for the admin is: Admin and Admin001
 
-Serialization: At the beginning of the program, the Students.ser and Courses.ser files are deserialized to read the files where the objects are stored (ArrayLists of students objects and ArrayList of courses objects). When the program exits, the latest copy of the ArrayLists/objects are written into the serialized binary file. 
+Serialization: At the beginning of the program, the Students.ser and Courses.ser files are deserialized to read the files where the objects are stored (ArrayLists of students objects and ArrayList of courses objects). When the program exits, the latest copy of the ArrayLists/objects are written into the serialized binary file. The purpose of serialization is to maintain persistent ArrayLists of Courses and Students and to preserve the relationships between them.
