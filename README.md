@@ -1,4 +1,4 @@
-# Course-Registration-System
+# Course Registration System
 
 Course Registration System with multi-level user access (Admin & Student)
 At the start of the program, the user is asked to check if they are a student or an admin then if the user is admin, she/he will be asked to enter the username and password. Same applies for student. The admin first has to create the student's login for this specific version of the registration system.
